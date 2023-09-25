@@ -1,0 +1,21 @@
+{
+  "name": "nky",
+  "version": "1.0.0",
+  "description": "NKY Sample package",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpkapil/yky.git"
+  },
+  "keywords": [
+    "NKY",
+    "Sample"
+  ],
+  "author": "Kapil Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpkapil/yky/issues"
+  },
+  "homepage": "https://github.com/lpkapil/yky#readme"
+}
